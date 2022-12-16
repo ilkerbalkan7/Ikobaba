@@ -1,0 +1,8 @@
+D:\Ikobaba07\Ikobaba07\Ikobaba07\obj\Debug\netcoreapp3.1\Ikobaba07.csproj.AssemblyReference.cache
+D:\Ikobaba07\Ikobaba07\Ikobaba07\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Ikobaba07\Ikobaba07\Ikobaba07\obj\Debug\netcoreapp3.1\Views\CustomerListView.g.cs
+D:\Ikobaba07\Ikobaba07\Ikobaba07\obj\Debug\netcoreapp3.1\Views\OrderView.g.cs
+D:\Ikobaba07\Ikobaba07\Ikobaba07\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Ikobaba07\Ikobaba07\Ikobaba07\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+D:\Ikobaba07\Ikobaba07\Ikobaba07\obj\Debug\netcoreapp3.1\Ikobaba07_MarkupCompile.cache
+D:\Ikobaba07\Ikobaba07\Ikobaba07\obj\Debug\netcoreapp3.1\Ikobaba07_MarkupCompile.lref
